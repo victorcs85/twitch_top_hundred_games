@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Twitch Top 100</string>
+
+    <!--COMMOM -->
+    <string name="loading_message">Carregando, aguarde&#8230;</string>
+    <string name="whithout_internet">Sem conexão com a internet.</string>
+    <string name="warning">Atenção</string>
+    <string name="action_error">Não foi possível executar a ação!</string>
+    <string name="loading_error">Desculpe, ocorreu um erro durante o processamento!</string>
+    <string name="empty_result">Nenhum resultado encontrado</string>
+    <string name="no_local_data">Não existem mais games offline para exibição!</string>
+
+    <!--MAIN-->
+    <string name="no_data">Sem dados para exibição.</string>
+
+    <!--DETAIL-->
+    <string name="channel_counter">Contador de canais</string>
+    <plurals name="channels">
+        <item quantity="one">%1$d canal</item>
+        <item quantity="other">%1$d canais</item>
+    </plurals>
+    <string name="number_of_views">Quantidade de visualizações</string>
+    <plurals name="views">
+        <item quantity="one">%1$d visualização</item>
+        <item quantity="other">%1$d visualizações</item>
+    </plurals>
+</resources>

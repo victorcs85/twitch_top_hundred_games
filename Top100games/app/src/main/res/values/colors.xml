@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#634098</color>
+    <color name="colorPrimaryDark">#3b265b</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="grayApp">#f0f0f0</color>
+    <color name="blueApp">#4c94c4</color>
+    <color name="orangeApp">#df9306</color>
+    <color name="cyanApp">#7bd8f7</color>
+    <color name="black">#000000</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="backgroundGameNameAlpha">#aa63419c</color>
+    <color name="backgroundGameName">#63419c</color>
+    <color name="red">#FF0000</color>
+</resources>
