@@ -90,7 +90,7 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.1'
     testCompile 'junit:junit:4.12'
     //Test Frameworks
-//    testCompile 'org.mockito:mockito-core:2.9'
+//    testCompile 'org.mockito:mockito-core:2.7.10'
 //    testCompile "org.robolectric:robolectric:3.2.2"
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
 }
